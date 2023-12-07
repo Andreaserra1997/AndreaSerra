@@ -12,4 +12,4 @@
 
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwind,vue,vite,php,mysql,laravel,figma,git,postman,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,bootstrap,sass,tailwind,vue,vite,php,mysql,laravel,figma,git,postman,idea,spring,maven,autocad)](https://skillicons.dev)

@@ -22,6 +22,9 @@
 
 ![Andreaserra1997's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaserra1997&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+<h2>🏆GitHub Trophies</h2>
+![](https://github-trophies.vercel.app/?username=Andreaserra1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Andreaserra1997&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>

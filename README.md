@@ -17,3 +17,5 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Andreaserra1997&label=Andreaserra1997&color=1&icon=5&pretty=false" />
 </a>
+
+![Andreaserra1997's Stats](https://github-readme-stats.vercel.app/api?username=Andreaserra1997&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
